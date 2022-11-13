@@ -23,6 +23,7 @@ body{
     align-items: center;
     min-height: 100vh;
     transition: all 1s ease;
+    margin-top: -15px;
 }
 /* main contain details  */
 .main-contain{
@@ -147,7 +148,7 @@ h4{
         transition: all 1s ease;
         background: var(--Pale-blue) url('images/pattern-background-desktop.svg') no-repeat top left;
         background-size: contain;
-        padding: 70px;
+        margin-top: 70px;
     }
     .main-contain{
        
