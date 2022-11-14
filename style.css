@@ -22,7 +22,8 @@ body{
     align-items: center;
     min-height: 100vh;
     transition: all 1s ease;
-    margin-top: -15px;
+    padding-top: 25px;
+    
 }
 /* main contain details  */
 .main-contain{
