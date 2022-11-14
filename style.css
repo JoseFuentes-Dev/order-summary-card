@@ -30,6 +30,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-around;
     height: 34.76rem ;
     width: 20.5rem;
     background-color: var(--color-background);
@@ -49,7 +50,6 @@ body{
 }
 /* title and description section*/
 h2{
-    padding: 25px;
     text-align: center;
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 900;
@@ -68,6 +68,7 @@ h2{
     display: flex;
     flex-direction: row;
     align-items: center;
+    
     background-color: var(--Very-pale-blue);
     border-radius: 10px;
     padding: 14px;
@@ -173,7 +174,6 @@ span{
     .plan-anual{
         width: 22.063rem;
         height: 6.063rem;
-        padding-left: 20px;
     }
     .title-of-plan{
         padding: 0 90px 0 20px;
@@ -183,9 +183,6 @@ span{
     }
     .title{
         font-size: 16px;
-    }
-    .buttons{
-        padding-top: 30px;
     }
     .payment-button{
         width: 22.063rem;
