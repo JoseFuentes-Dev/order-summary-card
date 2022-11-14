@@ -22,7 +22,7 @@ body{
     align-items: center;
     min-height: 100vh;
     transition: all 1s ease;
-    padding-top: 30px;
+    justify-content: center;
     
 }
 /* main contain details  */
@@ -151,10 +151,10 @@ span{
         transition: all 1s ease;
         background: var(--Pale-blue) url('images/pattern-background-desktop.svg') no-repeat top left;
         background-size:contain;
-        margin-top: 70px;
+       
+        
     }
     .main-contain{
-       
         width:28.125rem ;
         height: 43.625rem;
     }
@@ -162,7 +162,7 @@ span{
         height: 13.813rem;
     }
     h2{
-        padding: 38px;
+        padding: 35px;
         font-size: 1.8rem;
     }
     .description{
