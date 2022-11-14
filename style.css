@@ -48,8 +48,8 @@ body{
 }
 /* title and description section*/
 h2{
+    padding: 25px;
     text-align: center;
-    padding: 24px;
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 900;
 }
